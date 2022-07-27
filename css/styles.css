@@ -1,0 +1,184 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	background-color: #393E46;
+	color: white;
+
+}
+
+h1{
+	
+	font-size: 3rem;
+	line-height: 1.5;
+	font-weight: 700;
+}
+
+h2{
+	line-height: 1.5;
+	text-align: center;
+	font-weight: 700;
+}
+
+h3{
+	text-align: center;
+	font-weight: 700;
+}
+#title{
+	background-color: #222831;
+	color: #EEEEEE;
+}
+
+
+#top-brand{
+	font-family: 'Oswald', sans-serif;
+	font-weight: 500;
+	font-size: 1.7rem;
+}
+
+.top-container{
+	padding: 8% 14%;
+}
+
+#awesome{
+	margin-bottom: 20%;
+	margin-top: 10%;
+}
+
+#shoes-img{
+	margin-top: 9.5%;
+	width: 110%;
+	height: auto;
+}
+
+
+/*features*/
+
+#features{
+	padding: 12% 5%;
+}
+
+.features-desc{
+	text-align: center;
+	margin-top: 5%;
+
+}
+
+.iconic{
+	
+	font-size: 8rem;
+	color: #00ADB5;
+	padding: auto auto;
+	text-align: center;
+}
+
+/*products*/
+
+#products{
+	text-align: center;
+	
+	background-color: #222831;
+
+}
+
+.carousel-item{
+	padding: 3% 12% 7%;
+
+}
+
+
+
+
+
+/*brands*/
+
+#brands{
+	text-align: center;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	
+
+}
+
+.brand-images{
+	height: 200px;
+	width: auto;
+	margin-top: 6%;
+}
+
+#brands-text{
+	font-family: 'Oswald', sans-serif;
+	color: #00ADB5;
+	font-size: 4.5rem;
+	font-weight: 900;
+	font-style: italic;
+
+}
+
+
+/*pricing*/
+
+#pricing{
+	background-color: #222831;
+	
+}
+
+
+#card-deck{
+	padding-top: 3%;
+	padding-bottom: 10%;
+
+}
+
+.card-body{
+	background-color: #00ADB5;
+}
+
+.card-header{
+	background-color: #393E46;
+
+}
+
+.card{
+	border: 0;
+}
+
+.col-lg-4{
+	padding: 0;
+}
+
+.sell{
+	background-color: 393E46	;
+}
+
+@media(max-width: 992px){
+	.title1{
+		text-align: center;
+	}
+
+	#shoes-img{
+		padding-right: 10%;
+	}
+
+	#awesome{
+		margin-bottom: 10%;
+	}
+}
+
+
+#dark-grey{
+	background-color: #222831;
+}
+
+#cta{
+	text-align: center;
+	padding-bottom: 4%;
+	
+}
+
+/*footer*/
+#footer{
+	text-align: center;
+}
+
+#contact{
+	font-size: 1.8rem;
+}
